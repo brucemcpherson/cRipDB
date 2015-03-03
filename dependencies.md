@@ -1,5 +1,5 @@
 # Google Apps Script Project: cRipDB
-This repo (cRipDB) was automatically updated on 02 March 2015 19:31:08 GMT by GasGit
+This repo (cRipDB) was automatically updated on 03 March 2015 17:30:35 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project cRipDB
