@@ -1,5 +1,5 @@
 # Google Apps Script Project: cRipDB
-This repo (cRipDB) was automatically updated on 03 March 2015 17:30:35 GMT by GasGit
+This repo (cRipDB) was automatically updated on 09 June 2015 14:54:10 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project cRipDB
@@ -16,11 +16,11 @@ RipDbMutation| server_js
 ### Directly referenced libraries
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-cUseful| cUseful|Mcbr-v4SsYKJP7JMohttAZyz3TLx7pV4j|23|no|[here](libraries/cUseful "library source")
+cUseful| cUseful|Mcbr-v4SsYKJP7JMohttAZyz3TLx7pV4j|25|no|[here](libraries/cUseful "library source")
 ### All dependencies and sub dependencies
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-cUseful| cUseful|Mcbr-v4SsYKJP7JMohttAZyz3TLx7pV4j|23|no|[here](libraries/cUseful "library source")
+cUseful| cUseful|Mcbr-v4SsYKJP7JMohttAZyz3TLx7pV4j|25|no|[here](libraries/cUseful "library source")
 ### Enabled Google Services
 no libraries discovered
 ###Need more detail ?
